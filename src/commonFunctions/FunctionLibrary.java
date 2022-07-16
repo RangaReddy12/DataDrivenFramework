@@ -32,6 +32,12 @@ public static boolean verifyLogin(String username,String password)
 		return false;
 	}
 }
+public static void add()
+{
+	int a=987,b=987,c;
+	c=a+b;
+	System.out.println(c);
+}
 }
 
 
